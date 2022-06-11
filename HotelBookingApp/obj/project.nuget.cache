@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "llDyG0hjb8I3qFJdSoKI1LSSd9EgGO3e8ZaNsBj/Yi00EuRkyKHX3S9rmpVCvfic0/rTF3IqaLMXR1s1u/niZA==",
+  "success": true,
+  "projectFilePath": "/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/HotelBookingApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

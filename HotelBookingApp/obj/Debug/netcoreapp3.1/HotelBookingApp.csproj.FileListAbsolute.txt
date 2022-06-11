@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp.deps.json
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp.runtimeconfig.json
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp.dll
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/bin/Debug/netcoreapp3.1/HotelBookingApp.pdb
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.dll
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.pdb
+/Users/fatehmmmdli/Projects/HotelBookingApp/HotelBookingApp/obj/Debug/netcoreapp3.1/HotelBookingApp.genruntimeconfig.cache
